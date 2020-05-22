@@ -10,7 +10,7 @@
         "table",
         "dragtable"
     ],
-    "version": "2.0.15",
+    "version": "2.0.16",
     "author": {
         "name": "Andres"
     },
@@ -26,5 +26,6 @@
     "download": "https://github.com/akottr/dragtable/archive/2.0.15.zip",
     "dependencies": {
         "jquery": ">=1.7.2"
-    }
+    },
+    "main": "jquery.dragtable.js"
 }
